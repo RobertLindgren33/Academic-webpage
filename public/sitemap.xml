@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>http://example.org/post/jupyter/</loc>
+      <loc>/post/jupyter/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>http://example.org/tutorial/example/</loc>
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>http://example.org/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>http://example.org/talk/example/</loc>
+      <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>http://example.org/project/external-project/</loc>
+      <loc>/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>http://example.org/project/internal-project/</loc>
+      <loc>/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>http://example.org/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>http://example.org/publication/person-re-id/</loc>
+      <loc>/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>http://example.org/publication/clothing-search/</loc>
+      <loc>/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -76,14 +76,14 @@
     
     <url>
     
-      <loc>http://example.org/author/admin/</loc>
+      <loc>/author/admin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>http://example.org/publication_types/1/</loc>
+      <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -92,7 +92,7 @@
     
     <url>
     
-      <loc>http://example.org/publication_types/2/</loc>
+      <loc>/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -101,7 +101,7 @@
     
     <url>
     
-      <loc>http://example.org/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -110,7 +110,7 @@
     
     <url>
     
-      <loc>http://example.org/author/</loc>
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -118,7 +118,7 @@
     
     <url>
     
-      <loc>http://example.org/authors/</loc>
+      <loc>/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -126,7 +126,7 @@
     
     <url>
     
-      <loc>http://example.org/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -134,7 +134,7 @@
     
     <url>
     
-      <loc>http://example.org/tags/deep-learning/</loc>
+      <loc>/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -143,7 +143,7 @@
     
     <url>
     
-      <loc>http://example.org/tags/demo/</loc>
+      <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -152,7 +152,7 @@
     
     <url>
     
-      <loc>http://example.org/authors/ga-cushen/</loc>
+      <loc>/authors/ga-cushen/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +161,7 @@
     
     <url>
     
-      <loc>http://example.org/authors/ms-nixon/</loc>
+      <loc>/authors/ms-nixon/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +170,7 @@
     
     <url>
     
-      <loc>http://example.org/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -178,7 +178,7 @@
     
     <url>
     
-      <loc>http://example.org/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -187,7 +187,7 @@
     
     <url>
     
-      <loc>http://example.org/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -196,7 +196,7 @@
     
     <url>
     
-      <loc>http://example.org/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -204,7 +204,7 @@
     
     <url>
     
-      <loc>http://example.org/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -212,7 +212,7 @@
     
     <url>
     
-      <loc>http://example.org/</loc>
+      <loc>/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -221,7 +221,7 @@
     
     <url>
     
-      <loc>http://example.org/slides/</loc>
+      <loc>/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -229,14 +229,14 @@
     
     <url>
     
-      <loc>http://example.org/slides/example-slides/</loc>
+      <loc>/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>http://example.org/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -245,7 +245,7 @@
     
     <url>
     
-      <loc>http://example.org/authors/admin/</loc>
+      <loc>/authors/admin/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
