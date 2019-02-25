@@ -13,7 +13,7 @@ role = "Professors of Innovation"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Rönnbäcken Innovation", url = "" } ]
+organizations = [ { name = "Ronnbacken Innovation", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Lets make the world great again"
@@ -30,7 +30,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+#user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -39,7 +39,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "Mojäng in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2009
 
